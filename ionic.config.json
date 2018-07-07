@@ -1,0 +1,8 @@
+{
+  "name": "rs-customer-app",
+  "app_id": "0cee5947",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
